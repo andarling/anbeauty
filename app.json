@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "small bridge",
+  "description": "dragonfly",
   "keywords": [
-    "vmess or vles"
+    "Butterfly"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/andarling/anbeauty",
+  "repository": "https://github.com/andarling/anbeauty",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
